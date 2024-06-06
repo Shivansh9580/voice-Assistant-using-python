@@ -4,7 +4,7 @@ key Features-
 <br>
 <ol>
  1: It listen to your audio using pyaudio. It consists text to speech as well as speech to text functionality.
-  
+ <br>
  2: It uses Recognizer_google() function to recognize the voice of the user and convert it into text.
- 
+ <br>
  3: The selenium libraries help to automate the system and open different url using webdrivers.
