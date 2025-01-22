@@ -1,4 +1,4 @@
-This is your personal simpler version of voice assistant
+This is your personal simpler version of Generative AI enhanced voice assistant
 
 Key Features :- 
 
@@ -13,3 +13,5 @@ Added web automation using selenium web automation tool.
 Can provide information about any topic through Wkipedia.
 
 Also can play any video on youtube on voice command.
+
+Integrated Generative AI using OpenAI GPT to generate real-time responses for various user prompts.
